@@ -1,0 +1,6 @@
+# configuration file for dotnet-releaser
+[msbuild]
+project = "Reader.sln"
+[github]
+user = "getkks"
+repo = "Reader"

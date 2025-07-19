@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"isRoot": true,
+	"tools": {
+		"fantomas": {
+			"version": "7.0.3",
+			"commands": [
+				"fantomas"
+			],
+			"rollForward": true
+		},
+		"code-butler": {
+			"version": "3.0.2",
+			"commands": [
+				"dotnet-code-butler"
+			],
+			"rollForward": true
+		},
+		"dotnet-releaser": {
+			"version": "0.12.0",
+			"commands": [
+				"dotnet-releaser"
+			],
+			"rollForward": true
+		}
+	}
+}
